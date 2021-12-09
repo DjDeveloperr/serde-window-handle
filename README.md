@@ -1,2 +1,3 @@
 # serde-window-handle
-Serde-compatible raw-window-handle, inter-convertible between raw-window-handle.
+
+Serde-compatible window handle types, inter-convertible between raw-window-handle.
